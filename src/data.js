@@ -33,13 +33,13 @@ export const listTools = [
     ket: "Framework",
     dad: "200",
   },
-  {
-    id: 3,
-    gambar: Tools3,
-    nama: "Next JS",
-    ket: "Framework",
-    dad: "300",
-  },
+  // {
+  //   id: 3,
+  //   gambar: Tools3,
+  //   nama: "Next JS",
+  //   ket: "Framework",
+  //   dad: "300",
+  // },
   {
     id: 4,
     gambar: Tools4,
@@ -75,30 +75,30 @@ export const listTools = [
     ket: "Repository",
     dad: "800",
   },
-  {
-    id: 9,
-    gambar: Tools9,
-    nama: "Adobe Illustrator",
-    ket: "Design App",
-    dad: "900",
-  },
-  {
-    id: 10,
-    gambar: Tools10,
-    nama: "Canva",
-    ket: "Design App",
-    dad: "1000",
-  },
-  {
-    id: 11,
-    gambar: Tools11,
-    nama: "Figma",
-    ket: "Design App",
-    dad: "1100",
-  },
+  // {
+  //   id: 9,
+  //   gambar: Tools9,
+  //   nama: "Adobe Illustrator",
+  //   ket: "Design App",
+  //   dad: "900",
+  // },
+  // {
+  //   id: 10,
+  //   gambar: Tools10,
+  //   nama: "Canva",
+  //   ket: "Design App",
+  //   dad: "1000",
+  // },
+  // {
+  //   id: 11,
+  //   gambar: Tools11,
+  //   nama: "Figma",
+  //   ket: "Design App",
+  //   dad: "1100",
+  // },
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.webp";
+import Proyek1 from "/assets/proyek/proyek1.png";
 import Proyek2 from "/assets/proyek/proyek2.webp";
 import Proyek3 from "/assets/proyek/proyek3.webp";
 import Proyek4 from "/assets/proyek/proyek4.webp";
@@ -109,11 +109,20 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website Sekolah",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "AOS"],
+    nama: "Characters Bank",
+    desk: "My first project, a simple website with Sign up, Sign in, Make / Delete posts, Upload picture, Based on Colt Steele Yelp Camp Project",
+    tools: ["HTML", "JavaScript", "Bootstrap", "Express Js", "Cloudinary", "Mongo DB", "Ejs"],
     dad: "200",
+    link: "https://charactersbank.vercel.app/"
   },
+  // {
+  //   id: 1,
+  //   gambar: Proyek1,
+  //   nama: "Website Sekolah",
+  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+  //   tools: ["HTML", "CSS", "Javascript", "AOS"],
+  //   dad: "200",
+  // },
   {
     id: 2,
     gambar: Proyek2,
@@ -121,6 +130,7 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
     dad: "300",
+    link: "#"
   },
   {
     id: 3,
@@ -129,6 +139,7 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
     dad: "400",
+    link: "#"
   },
   {
     id: 4,
@@ -137,6 +148,7 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
     dad: "500",
+    link: "#"
   },
   {
     id: 5,
@@ -145,6 +157,7 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
     dad: "600",
+    link: "#"
   },
   {
     id: 6,
@@ -153,5 +166,6 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["NextJS", "TailwindCSS", "Framermotion"],
     dad: "700",
+    link: "#"
   },
 ];

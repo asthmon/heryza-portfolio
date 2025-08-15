@@ -14,7 +14,7 @@ function App() {
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">Hi, Im Heryza Alfiansyah</h1>
           <h3 className="text-5xl/tight font-bold mb-6 typing-text">Im a, <span></span></h3>
-          <p className="text-base/loose mb-6 opacity-50">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate corporis atque est, facere amet, impedit, expedita ducimus dicta aliquid consequatur reprehenderit quam? Eligendi asperiores, voluptatum eveniet atque tempore deserunt. Necessitatibus.
+          <p className="text-base/loose mb-6 opacity-50">Passionate about coding and problem solving, I thrive on turning ideas into functional, elegant solutions. As a junior programmer, I bring enthusiasm, a hunger for learning, and a solid foundation in modern development tools and practices.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="#" className="bg-cyan-500 shadow-xl shadow-cyan-500/50 p-4 rounded-2xl hover:bg-cyan-400 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110">Download CV <i className="ri-download-fill ri-lg"></i></a>
@@ -30,18 +30,18 @@ function App() {
           data-aos-duration="1000">
           <img src={DataImage.HeroImage} alt="image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
           <p className="text-base/loose mb-10">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim sint, nihil eos at asperiores commodi id, veritatis quibusdam itaque consequuntur perspiciatis minima, nostrum aspernatur ipsum unde a odit voluptatum maiores?
-            Ut ullam nobis beatae consequuntur saepe molestias voluptate nulla architecto ipsa nihil nisi officiis repudiandae necessitatibus ducimus, temporibus id! Earum, cupiditate sit minus consectetur tempore voluptas voluptatibus quaerat aut distinctio.
+            With some of completed projects and years of hands-on experience, I combine creativity with technical precision to deliver impactful solutions. My work is rooted in a deep understanding of modern technologies and a commitment to clean, efficient code.
+            Whether tackling complex challenges or refining user experiences, I thrive on turning ideas into reality. Every project reflects my dedication to quality, innovation, and continuous learning.
           </p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
             <div className="flex items-center gap-6">
               <div>
-                <h1 className="text-4xl mb-1">45<span className="text-cyan-300">+</span></h1>
+                <h1 className="text-4xl mb-1">5<span className="text-cyan-300">+</span></h1>
                 <p>Finished Project</p>
               </div>
               <div>
-                <h1 className="text-4xl mb-1">4<span className="text-cyan-300">+</span></h1>
+                <h1 className="text-4xl mb-1">1<span className="text-cyan-300">+</span></h1>
                 <p>Years of Experience</p>
               </div>
             </div>
@@ -51,9 +51,8 @@ function App() {
         <div className="tools mt-32">
           <h1 className="text-4xl/snug font-bold mb-4" data-aos="fade-up" data-aos-duration="1000">Tools that i used</h1>
           <p className="xl:w-2/5 lg:w-2/4 md:w-2/3 sm:w-3/4 w-full text-base/loose opacity-50" data-aos="fade-up" data-aos-duration="1000"
-            data-aos-delay="300">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Totam qui dignissimos porro, minima cumque sint tempora tempore? Molestias quo,4
-            placeat quia itaque earum aspernatur, temporibus maxime, alias fugiat officiis dolorum.</p>
+            data-aos-delay="300">I rely on a powerful set of tools to streamline my development workflow and create efficient, high-quality projects.
+            Here are some tools that I usually use</p>
           <div className="tools-box mt-14 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4">
 
             {listTools.map(sfr => (
@@ -90,7 +89,7 @@ function App() {
                   ))}
                 </div>
                 <div className="mt-8 text-center">
-                  <a className="bg-cyan-500 p-3 shadow-lg text-cyan-100 shadow-cyan-500/50 rounded-lg block border border-zinc-600 hover:bg-cyan-400 transition delay-150 duration-300 ease-in-out hover:scale-105" href="#">See</a>
+                  <a className="bg-cyan-500 p-3 shadow-lg text-cyan-100 shadow-cyan-500/50 rounded-lg block border border-zinc-600 hover:bg-cyan-400 transition delay-150 duration-300 ease-in-out hover:scale-105" href={proj.link}>See</a>
                 </div>
               </div>
             </div>
@@ -104,7 +103,7 @@ function App() {
 
       <div className="contact mt-32 sm:p-10 p-0" id="contact">
         <h1 className="text-4xl mb-2 font-bold text-center" data-aos="fade-up" data-aos-duration="1000">Contact</h1>
-        <p className="text-base/loose text-center mb-10 opacity-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">Connected with me</p>
+        <p className="text-base/loose text-center mb-10 opacity-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">Send me a message</p>
         <form action="https://formsubmit.co/heryzariz15@gmail.com" method="POST" className="bg-zinc-800 p-10 sm:w-fit w-full mx-auto rounded-md" autoComplete="off" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
           <div className="flex flex-col gap-6">
             <div className="flex flex-col gap-2">

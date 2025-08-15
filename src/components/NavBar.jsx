@@ -28,7 +28,7 @@ export default function NavBar() {
             md:bg-transparent transition-all md:transition-none z-40 ${active ? "top-0 opacity-100" : "-top-10 opacity-0"}}`}>
                 <li><a href="#home" className="sm:text-lg text-base font-medium hover:text-cyan-300">Home</a></li>
                 <li><a href="#about" className="sm:text-lg text-base font-medium hover:text-cyan-300">About</a></li>
-                <li><a href="#project" className="sm:text-lg text-base font-medium hover:text-cyan-300">Project</a></li>
+                <li><a href="#project" className="sm:text-lg text-base font-medium hover:text-cyan-300">Projects</a></li>
                 <li><a href="#contact" className="sm:text-lg text-base font-medium hover:text-cyan-300">Contact</a></li>
             </ul>
         </div >
