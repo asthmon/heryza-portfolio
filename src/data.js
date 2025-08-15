@@ -123,15 +123,15 @@ export const listProyek = [
   //   tools: ["HTML", "CSS", "Javascript", "AOS"],
   //   dad: "200",
   // },
-  {
-    id: 2,
-    gambar: Proyek2,
-    nama: "Company Profile",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
-    dad: "300",
-    link: "#"
-  },
+  // {
+  //   id: 2,
+  //   gambar: Proyek2,
+  //   nama: "Company Profile",
+  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+  //   tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
+  //   dad: "300",
+  //   link: "#"
+  // },
   {
     id: 3,
     gambar: Proyek3,
