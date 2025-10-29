@@ -11,11 +11,11 @@ export default function Footer() {
                 <a href="https://github.com/asthmon">
                     <i className="ri-github-fill ri-2x"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/heryza-alfiansyah-4157b634a/">
+                <a href="https://www.linkedin.com/in/heryza-alfiansyah/">
                     <i className="ri-linkedin-fill ri-2x"></i>
                 </a>
-                <a href="#">
-                    <i className="ri-twitter-fill ri-2x"></i>
+                <a href="https://www.instagram.com/zinogeryza">
+                    <i className="ri-instagram-fill ri-2x"></i>
                 </a>
             </div>
         </div>

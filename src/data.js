@@ -1,7 +1,8 @@
 import HeroImage from "/assets/mine-photo.jpg";
+import SubImage from "/assets/mine-photo-sub.jpeg";
 
 const Image = {
-  HeroImage,
+  HeroImage, SubImage
 };
 
 export default Image;
@@ -14,9 +15,12 @@ import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/github.png";
-import Tools9 from "/assets/tools/ai.png";
+import Tools9 from "/assets/tools/figma.png";
 import Tools10 from "/assets/tools/canva.png";
-import Tools11 from "/assets/tools/figma.png";
+import Tools11 from "/assets/tools/excel.png";
+import Tools12 from "/assets/tools/word.png";
+import Tools13 from "/assets/tools/ppt.png";
+
 
 export const listTools = [
   {
@@ -33,13 +37,13 @@ export const listTools = [
     ket: "Framework",
     dad: "200",
   },
-  // {
-  //   id: 3,
-  //   gambar: Tools3,
-  //   nama: "Next JS",
-  //   ket: "Framework",
-  //   dad: "300",
-  // },
+  {
+    id: 3,
+    gambar: Tools3,
+    nama: "Next JS",
+    ket: "Framework",
+    dad: "300",
+  },
   {
     id: 4,
     gambar: Tools4,
@@ -75,27 +79,41 @@ export const listTools = [
     ket: "Repository",
     dad: "800",
   },
-  // {
-  //   id: 9,
-  //   gambar: Tools9,
-  //   nama: "Adobe Illustrator",
-  //   ket: "Design App",
-  //   dad: "900",
-  // },
-  // {
-  //   id: 10,
-  //   gambar: Tools10,
-  //   nama: "Canva",
-  //   ket: "Design App",
-  //   dad: "1000",
-  // },
-  // {
-  //   id: 11,
-  //   gambar: Tools11,
-  //   nama: "Figma",
-  //   ket: "Design App",
-  //   dad: "1100",
-  // },
+  {
+    id: 9,
+    gambar: Tools9,
+    nama: "Figma",
+    ket: "Design App",
+    dad: "900",
+  },
+  {
+    id: 10,
+    gambar: Tools10,
+    nama: "Canva",
+    ket: "Design App",
+    dad: "1000",
+  },
+  {
+    id: 11,
+    gambar: Tools11,
+    nama: "Ms Excel",
+    ket: "Data Analysis & Spreadsheets",
+    dad: "1100",
+  },
+  {
+    id: 12,
+    gambar: Tools12,
+    nama: "Ms Word",
+    ket: "Document Creation & Editing",
+    dad: "1200",
+  },
+  {
+    id: 13,
+    gambar: Tools13,
+    nama: "Ms Powerpoint",
+    ket: "Presentations & Visual Storytelling",
+    dad: "1300",
+  }
 ];
 
 import Proyek1 from "/assets/proyek/proyek1.png";
