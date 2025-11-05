@@ -116,7 +116,7 @@ export const listTools = [
   }
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.png";
+import Proyek1 from "/assets/proyek/proyek1.webp";
 import Proyek2 from "/assets/proyek/proyek2.webp";
 import Proyek3 from "/assets/proyek/proyek3.webp";
 import Proyek4 from "/assets/proyek/proyek4.webp";
@@ -133,23 +133,15 @@ export const listProyek = [
     dad: "200",
     link: "https://charactersbank.vercel.app/"
   },
-  // {
-  //   id: 1,
-  //   gambar: Proyek1,
-  //   nama: "Website Sekolah",
-  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-  //   tools: ["HTML", "CSS", "Javascript", "AOS"],
-  //   dad: "200",
-  // },
-  // {
-  //   id: 2,
-  //   gambar: Proyek2,
-  //   nama: "Company Profile",
-  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-  //   tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
-  //   dad: "300",
-  //   link: "#"
-  // },
+  {
+    id: 2,
+    gambar: Proyek2,
+    nama: "Movie App",
+    desk: "A simple movies app, using react vite",
+    tools: ["React Js", "Tailwind Css", "Javascript", "Figma", "Appwrite", "Movie Db API"],
+    dad: "300",
+    link: "https://movies-app-two-lake.vercel.app/"
+  },
   {
     id: 3,
     gambar: Proyek3,
