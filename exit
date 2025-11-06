@@ -1,0 +1,36 @@
+[33m3e49d42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfoo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m3e49d42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfoo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: reset: moving to origin
+[33m3e49d42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfoo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from main to foo
+[33m3e49d42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfoo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: commit: new update
+[33maf85096[m HEAD@{4}: commit: cross finger vercelll
+[33m53e5a18[m HEAD@{5}: commit: cross finger vercel
+[33md70925c[m HEAD@{6}: commit: cross finger please 2
+[33mf5979e8[m HEAD@{7}: commit: cross finger please
+[33m81c9987[m HEAD@{8}: commit: cross finger
+[33m39d78cd[m HEAD@{9}: commit: try vercel
+[33m2ae9972[m HEAD@{10}: commit: pleaseo
+[33m08580b4[m HEAD@{11}: commit: please
+[33mc250e08[m HEAD@{12}: commit: no
+[33m916933a[m HEAD@{13}: commit: new deploy2
+[33mbb471fd[m HEAD@{14}: commit: new deploy
+[33m5d3a540[m HEAD@{15}: commit: new update
+[33me4a25cb[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33me4a25cb[m HEAD@{18}: commit: bismillah
+[33med86387[m HEAD@{19}: Branch: renamed refs/heads/main to refs/heads/main
+[33med86387[m HEAD@{21}: commit: first commit
+[33m41012ff[m HEAD@{22}: Branch: renamed refs/heads/main to refs/heads/main
+[33m41012ff[m HEAD@{24}: Branch: renamed refs/heads/main to refs/heads/main
+[33m41012ff[m HEAD@{26}: commit: first commit
+[33mcd11064[m HEAD@{27}: Branch: renamed refs/heads/main to refs/heads/main
+[33mcd11064[m HEAD@{29}: commit: test2
+[33me234583[m HEAD@{30}: commit: test
+[33m5570c9c[m HEAD@{31}: commit (merge): new update
+[33m25ee13b[m HEAD@{32}: commit: new update
+[33mc8f1536[m HEAD@{33}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc8f1536[m HEAD@{35}: commit: first commit
+[33m75c6430[m HEAD@{36}: Branch: renamed refs/heads/main to refs/heads/main
+[33m75c6430[m HEAD@{38}: Branch: renamed refs/heads/main to refs/heads/main
+[33m75c6430[m HEAD@{40}: commit: first commit
+[33m8f0a576[m HEAD@{41}: Branch: renamed refs/heads/main to refs/heads/main
+[33m8f0a576[m HEAD@{43}: Branch: renamed refs/heads/master to refs/heads/main
+[33m8f0a576[m HEAD@{45}: commit (initial): first commit

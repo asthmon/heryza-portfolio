@@ -1,4 +1,4 @@
-import HeroImage from "/assets/mine-photo.jpg";
+import HeroImage from "/assets/mine-photo.webp";
 import SubImage from "/assets/mine-photo-sub.jpeg";
 
 const Image = {
