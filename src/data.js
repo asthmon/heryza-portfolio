@@ -1,4 +1,4 @@
-import HeroImage from "/assets/mine-photo.webp";
+import HeroImage from "/assets/profile-main.webp";
 import SubImage from "/assets/mine-photo-sub.jpeg";
 
 const Image = {
