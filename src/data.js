@@ -20,6 +20,13 @@ import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/excel.png";
 import Tools12 from "/assets/tools/word.png";
 import Tools13 from "/assets/tools/ppt.png";
+import Tools14 from "/assets/tools/Python.png";
+import Tools15 from "/assets/tools/MySQL.png";
+import Tools16 from "/assets/tools/Jupyter.png";
+import Tools17 from "/assets/tools/plotly-icon.svg";
+import Tools18 from "/assets/tools/Matplotlib.png";
+import Tools19 from "/assets/tools/PowerBI.png";
+import Tools20 from "/assets/tools/scikit-learn.png";
 
 
 export const listTools = [
@@ -113,6 +120,55 @@ export const listTools = [
     nama: "Ms Powerpoint",
     ket: "Presentations & Visual Storytelling",
     dad: "1300",
+  },
+  {
+    id: 14,
+    gambar: Tools14,
+    nama: "Python",
+    ket: "Language, Data Analysis",
+    dad: "1400",
+  },
+  {
+    id: 15,
+    gambar: Tools15,
+    nama: "MySQL",
+    ket: "Database Querying",
+    dad: "1500",
+  },
+  {
+    id: 16,
+    gambar: Tools16,
+    nama: "Jupyter Notebook",
+    ket: "Interactive Data Analysis",
+    dad: "1600",
+  },
+  {
+    id: 17,
+    gambar: Tools17,
+    nama: "Dash Plotly",
+    ket: "Interactive Web Dashboards",
+    dad: "1700",
+  },
+  {
+    id: 18,
+    gambar: Tools18,
+    nama: "Matplotlib",
+    ket: "Data Visualization",
+    dad: "1800",
+  },
+  {
+    id: 19,
+    gambar: Tools19,
+    nama: "Power BI",
+    ket: "Dashboard & Analytics",
+    dad: "1900",
+  },
+  {
+    id: 20,
+    gambar: Tools20,
+    nama: "Scikit Learn",
+    ket: "Machine Learning Library",
+    dad: "2000",
   }
 ];
 

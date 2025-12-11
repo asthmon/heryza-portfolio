@@ -15,7 +15,8 @@ function App() {
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">Hi, Im <span className="text-6xl/tight main-header">Heryza Alfiansyah</span></h1>
           <h3 className="text-5xl/tight font-bold mb-6 typing-text">Im a, <span></span></h3>
-          <p className="text-base/loose mb-6 opacity-70">Passionate about coding and problem solving, I thrive on turning ideas into functional, elegant solutions. As a junior programmer, I bring enthusiasm, a hunger for learning, and a solid foundation in modern development tools and practices.
+          <p className="text-base/loose mb-6 opacity-70">
+            I combine my skills in web development and data analysis to build functional applications powered by data-driven insights. Passionate about problem solving, I thrive on turning ideas into elegant solutions—whether through clean code or meaningful analysis. Eager to learn and grow, I leverage modern tools to deliver impact.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="#" className="bg-cyan-400 shadow-xl shadow-cyan-500/50 p-4 rounded-2xl hover:bg-cyan-200 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110">Download CV <i className="ri-download-fill ri-lg"></i></a>
@@ -39,8 +40,7 @@ function App() {
             data-aos-duration="1000">
             <img src={DataImage.SubImage} alt="image" className="w-20 rounded-md mb-10 sm:hidden" loading="lazy" />
             <p className="text-lg/loose mb-10">
-              With some of completed projects and years of hands-on experience, I combine creativity with technical precision to deliver impactful solutions. My work is rooted in a deep understanding of modern technologies and a commitment to clean, efficient code.
-              Whether tackling complex challenges or refining user experiences, I thrive on turning ideas into reality. Every project reflects my dedication to quality, innovation, and continuous learning.
+              With completed projects and hands-on experience across both development and analytics, I combine creativity with technical precision to deliver impactful solutions. My work is rooted in a deep understanding of modern technologies, data systems, and a commitment to clean, efficient code and clear, actionable insights. Whether tackling complex challenges, refining user experiences, or uncovering data-driven narratives, I thrive on turning ideas into reality. Every project reflects my dedication to quality, innovation, and continuous learning at the intersection of technology and data.
             </p>
             <div className="flex items-center justify-between">
               <img src={DataImage.SubImage} alt="image" className="w-30 rounded-md sm:block hidden" loading="lazy" />
