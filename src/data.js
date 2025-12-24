@@ -193,7 +193,7 @@ export const listProyek = [
     id: 2,
     gambar: Proyek2,
     nama: "Movie App",
-    desk: "A simple movies app, using react vite",
+    desk: "React-based movie application, leveraging Moviedb API and Appwrite to deliver a seamless movie browsing experience with real-time search.",
     tools: ["React Js", "Tailwind Css", "Javascript", "Figma", "Appwrite", "Movie Db API"],
     dad: "300",
     link: "https://movies-app-two-lake.vercel.app/"
@@ -201,11 +201,11 @@ export const listProyek = [
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Web Pernikahan 2.0",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
+    nama: "Expense Tracker",
+    desk: "A comprehensive Flask-based web application for personal finance management that helps users track, analyze, and visualize their daily expenses with intuitive charts and filtering capabilities.",
+    tools: ["Flask", "Postgresql", "TailwindCSS", "Render.com"],
     dad: "400",
-    link: "#"
+    link: "https://expense-tracker-1-el6p.onrender.com/"
   },
   {
     id: 4,
