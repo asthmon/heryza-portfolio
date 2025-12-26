@@ -19,7 +19,7 @@ function App() {
             I combine my skills in web development and data analysis to build functional applications powered by data-driven insights. Passionate about problem solving, I thrive on turning ideas into elegant solutions—whether through clean code or meaningful analysis. Eager to learn and grow, I leverage modern tools to deliver impact.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-cyan-400 shadow-xl shadow-cyan-500/50 p-4 rounded-2xl hover:bg-cyan-200 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110">Download CV <i className="ri-download-fill ri-lg"></i></a>
+            <a href="https://drive.google.com/file/d/1pEk_TWSqQNx10lCMXKcKy36I4r7Ae09L/view?usp=drive_link" className="bg-cyan-400 shadow-xl shadow-cyan-500/50 p-4 rounded-2xl hover:bg-cyan-200 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110">Download CV <i className="ri-download-fill ri-lg"></i></a>
             <a href="#project" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110" >Looks Project <i className="ri-arrow-down-long-fill ri-lg"></i></a>
             <a href="https://www.linkedin.com/in/heryza-alfiansyah/" className="lg:w-13 lg:h-13 sm:w-17 sm:h-17 h-13 w-12 flex items-center relative overflow-hidden justify-center rounded-full bg-white shadow-md shadow-gray-200 group transition-all duration-300">
               <svg className="fill-gray-900 relative z-10 transition-all duration-300 group-hover:fill-white" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 72 72" fill="none">
