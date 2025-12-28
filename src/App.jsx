@@ -13,7 +13,8 @@ function App() {
             <img src={DataImage.SubImage} alt="" className="w-15 rounded-b-md" loading="lazy" />
             <q>Learn new things, every day</q>
           </div>
-          <h1 className="text-5xl/tight font-bold mb-6">Hi, Im <span className="text-6xl/tight main-header">Heryza Alfiansyah</span></h1>
+          <h3 className="text-5xl/tight font-bold mb-6">Hi, im</h3>
+          <h1 className="text-5xl/tight font-bold mb-6"><span className="text-6xl/tight main-header">Heryza Alfiansyah</span></h1>
           <h3 className="text-5xl/tight font-bold mb-6 typing-text">Im a, <span></span></h3>
           <p className="text-base/loose mb-6 opacity-70">
             I combine my skills in web development and data analysis to build functional applications powered by data-driven insights. Passionate about problem solving, I thrive on turning ideas into elegant solutions—whether through clean code or meaningful analysis. Eager to learn and grow, I leverage modern tools to deliver impact.
