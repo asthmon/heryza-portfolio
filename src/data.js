@@ -210,11 +210,11 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Website Course",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
+    nama: "Litte Lemon Restaurant Capstone (Meta)",
+    desk: "the final, hands-on project for various Meta Professional Certificates on Coursera, requiring learners to build a web or mobile app for a fictional Mediterranean restaurant, Little Lemon",
+    tools: ["Vite", "ReactJS", "Bootstrap", "Figma", "Vercel"],
     dad: "500",
-    link: "#"
+    link: "https://little-lemon-one-delta.vercel.app/"
   },
   {
     id: 5,
