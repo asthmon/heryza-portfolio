@@ -17,7 +17,7 @@ function App() {
           <h1 className="text-5xl/tight font-bold mb-6"><span className="text-6xl/tight main-header">Heryza Alfiansyah</span></h1>
           <h3 className="text-5xl/tight font-bold mb-6 typing-text">Im a, <span></span></h3>
           <p className="text-base/loose mb-6 opacity-70">
-            I combine my skills in web development and data analysis to build functional applications powered by data-driven insights. Passionate about problem solving, I thrive on turning ideas into elegant solutions—whether through clean code or meaningful analysis. Eager to learn and grow, I leverage modern tools to deliver impact.
+            I enjoy building web applications, solving problems, and turning ideas into clean, functional solutions. I’m driven by curiosity, continuous learning, and a hands-on approach to modern web technologies.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="https://drive.google.com/file/d/1pEk_TWSqQNx10lCMXKcKy36I4r7Ae09L/view?usp=drive_link" className="bg-cyan-400 shadow-xl shadow-cyan-500/50 p-4 rounded-2xl hover:bg-cyan-200 transition delay-150 duration-300 ease-in-out hover:scale-110 active:scale-110">Download CV <i className="ri-download-fill ri-lg"></i></a>
@@ -41,7 +41,9 @@ function App() {
             data-aos-duration="1000">
             <img src={DataImage.SubImage} alt="image" className="w-20 rounded-md mb-10 sm:hidden" loading="lazy" />
             <p className="text-lg/loose mb-10">
-              With completed projects and hands-on experience across both development and analytics, I combine creativity with technical precision to deliver impactful solutions. My work is rooted in a deep understanding of modern technologies, data systems, and a commitment to clean, efficient code and clear, actionable insights. Whether tackling complex challenges, refining user experiences, or uncovering data-driven narratives, I thrive on turning ideas into reality. Every project reflects my dedication to quality, innovation, and continuous learning at the intersection of technology and data.
+              I build projects through hands-on experience in web development and analytics, combining creativity with a practical, problem-solving mindset. I enjoy working with modern technologies, writing clean and efficient code, and turning ideas into solutions that feel both functional and intuitive.
+              Alongside web development, I explore game development as a hobby. Creating small games allows me to experiment with interactivity, game logic, and user experience from a different perspective, which often influences how I approach design and interaction in my web projects.
+              I’m driven by continuous learning and enjoy tackling challenges that push both my technical and creative skills. Every project reflects my commitment to quality, clarity, and thoughtful execution, whether it’s refining user experiences, solving technical problems, or bringing ideas to life.
             </p>
             <div className="flex items-center justify-between">
               <img src={DataImage.SubImage} alt="image" className="w-30 rounded-md sm:block hidden" loading="lazy" />
